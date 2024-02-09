@@ -29,7 +29,7 @@ Arrange materials any way you like. All materials will be in play on each turn.
 
 ## First turn
 + D5: roll a D5 and the D6. Place the D5 at the zone on the board indicated by the D6.  
-+ D6: Place a D6 with the 1 facing up in zone 6 on the basketball court. Roll the other two D6 dice. The distinct die is the position on the board. Move the first die to that zone, showing the player designated by the first roll.  
++ D6: Place a D6 with the 1 facing up in zone 6 on the basketball court. Roll the other two D6 dice. Place the position die in the zone specified by the zone die. Remove the original position die from the court.
 	+ Special rule for D6: If a 6 is rolled, consider that to be player 1.  
 
 ## Second turn
